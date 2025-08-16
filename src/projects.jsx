@@ -82,7 +82,7 @@ export default function Projects() {
                 sx={{
                   fontWeight: 700,
                   color: "white",
-                  fontSize: "14px",
+                  fontSize: "18px",
                   fontFamily: "'Press Start 2P', cursive",
                 }}
               >
